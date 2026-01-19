@@ -41,3 +41,5 @@ For our design thinking project, my team and I worked on a system prototype unde
 ✨ Key takeaway:
 
  This project helped me understand how user-centred design and digital technology can be combined to solve real campus problems. The Student Face Scan System reflects how future-ready digital solutions can support efficiency, security, and digital transformation in a university environment.
+
+[DESIGN THINKING PROJECT.pdf](https://github.com/user-attachments/files/24717709/DESIGN.THINKING.PROJECT.pdf)
